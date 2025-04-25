@@ -2,3 +2,5 @@ streamlit
 scikit-learn
 xgboost
 plotly
+streamlit
+matplotlib
