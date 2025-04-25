@@ -72,7 +72,7 @@ def main():
     if page == pages[0]:
         st.write("### Introduction")
         st.subheader(
-            "Découvrez notre projet innovant qui explore les facteurs influençant le bonheur à l'échelle mondiale grâce à l'intelligence artificielle. "
+            "Découvrez mon projet innovant qui explore les facteurs influençant le bonheur à l'échelle mondiale grâce à l'intelligence artificielle. "
             "Nous analysons des données provenant de sources diverses, telles que des enquêtes sur le bien-être, des indicateurs économiques et des données sociales. "
             "Notre objectif est de comprendre comment différents éléments interagissent et influencent le bonheur des individus dans différentes cultures et régions."
         )
